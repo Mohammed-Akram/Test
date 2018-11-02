@@ -28,7 +28,7 @@ For a list of the regions where Dynamics 365 business applications are available
 > [!div class="mx-tableFixed"]
 > |Feature   |Release type   |Date    |
 > |----------|---------------|------------------------|
-> |[Quick Insights for non-additive measures](power-bi-desktop/non-additive-measure-insights.md)   |General Availability   |October 2018    |
+> |[Quick Insights for non-additive measures](power-bi-desktop/non-additive-measure-insights.md)   |Public Preview   |October 2018    |
 > |[Search in filter cards](power-bi-desktop/search-in-filter-cards.md)   |General Availability   |October 2018    |
 > |[Expand and collapse in matrix visual](power-bi-desktop/expand-collapse-matrix.md)   |Public Preview   |November 2018    |
 > |[Copy and paste across reports](power-bi-desktop/copy-paste-across-reports.md)   |Public Preview   |November 2018    |
