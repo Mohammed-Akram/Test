@@ -34,7 +34,6 @@ For a list of the regions where Dynamics 365 business applications are available
 > |[Copy and paste across reports](power-bi-desktop/copy-paste-across-reports.md)   |Public Preview   |November 2018    |
 > |**Accessibility** - Users can interact with Power BI Desktop via keyboard navigation and screen reader   |Public Preview   |December 2018    |
 > |[New filtering experience](power-bi-desktop/new-filtering-experience.md)   |Public Preview   |March 2019    |
-> |[Ad-hoc exploration](power-bi-desktop/adhoc-exploration.md)   |Public Preview   |March 2019    |
 > |[Expression-based formatting](power-bi-desktop/expression-based-formatting.md)   |Public Preview   |March 2019    |
 
 ## Power BI Service
