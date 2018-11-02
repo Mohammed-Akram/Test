@@ -31,7 +31,6 @@ For a list of the regions where Dynamics 365 business applications are available
 > | Feature                     | Release type   | Cloud or on-premises                      |Date |
 > |-----------------------------|----------------|----------------------------------------------|-----------------------|
 > |[Dual currency](dual-currency.md)| Public preview| Cloud<br>On-premises                                |October 2018<br>November 2018 |
-> |[View settlement transactions](view-settlement-transactions.md) | General Availability|Cloud<br>On-premises                                |October 2018<br>November 2018 |
 > |[Vendor and customer approvals for specific fields](vendor-customer-approval-fields.md) | General Availability| Cloud<br>On-premises                                |October 2018<br>November 2018 |
 > |[Data entry dimension values](data-entry-dimension-values.md) | General Availability| Cloud<br>On-premises                                |October 2018<br>November 2018 |
 > |[Consistent validation actions](validation-actions-journals.md) | General Availability|Cloud<br>On-premises                                |October 2018<br>November 2018 |
